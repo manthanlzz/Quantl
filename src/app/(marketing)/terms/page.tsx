@@ -12,7 +12,7 @@ const TermsPage = () => {
                     Last updated: 17th may 2025
                 </p>
                 <p className="mt-4">
-                    Welcome to Quantl. These terms and conditions outline the rules and regulations for the use of Linkify&apos;s website and services.
+                    Welcome to Quantl. These terms and conditions outline the rules and regulations for the use of Quantl&apos;s website and services.
                 </p>
 
                 <h2 className="text-xl font-medium mt-8">
