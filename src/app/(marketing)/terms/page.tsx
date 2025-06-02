@@ -105,7 +105,7 @@ const TermsPage = () => {
                 </h3>
 
                 <p className="mt-8 text-muted-foreground">
-                    You retain ownership of any content you upload or create using Linkify. However, by uploading or creating content, you grant Quantl  a worldwide, non-exclusive, royalty-free license to use, reproduce, and display your content as necessary to provide our services.
+                    You retain ownership of any content you upload or create using Quantl. However, by uploading or creating content, you grant Quantl  a worldwide, non-exclusive, royalty-free license to use, reproduce, and display your content as necessary to provide our services.
                 </p>
 
                 <h2 className="text-xl font-medium mt-12">

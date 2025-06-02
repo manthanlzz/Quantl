@@ -139,7 +139,7 @@ const Privacy = () => {
                     Data Deletion
                 </h3>
                 <p className="mt-8 text-muted-foreground">
-                    You have the right to request the deletion of your personal information. Please contact us at support@linkify.com to make this request.
+                    You have the right to request the deletion of your personal information. Please contact us at support@Quantl.com to make this request.
                 </p>
 
                 <h2 className="text-xl font-medium mt-12">
