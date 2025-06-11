@@ -108,7 +108,5 @@ html, body {
 .not-found {
   box-shadow: rgba(150, 18, 226, 0.3) 5px 5px;
 }
-html {
-  scroll-behavior: smooth;
-}
+
 
